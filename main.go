@@ -10,7 +10,7 @@ type Accounts []Account
 type Vrms []Vrm
 type Vehicles []Vehicle
 type AccountVehicles []Vehicle
-type Pcns []Pcn
+// type Pcns []Pcn
 
 func main() {
 	st := time.Now()
@@ -20,7 +20,7 @@ func main() {
 	vrms := make(Vrms, 200)
 	vehicles := make(Vehicles, 200)
 	accountVehicles := make(AccountVehicles, 300)
-	pcns := make(Pcns, 50)
+	// pcns := make(Pcns, 50)
 	
 	LogInit(os.Stdout)
 
@@ -31,11 +31,11 @@ func main() {
 	processAccounts(accounts)
 	processVrms(vrms)
 	processVehicles(vehicles, vrms, accounts, accountVehicles)
-	processPcns(pcns)
+	// processPcns(pcns)
 	printAccounts(accounts)
 	printVrms(vrms)
 	printVehicles(vehicles, vrms, accounts, accountVehicles)
-	printPcns(pcns)
+	// printPcns(pcns)
 
 	ft := time.Now()
 	fmt.Println("Complete", int(ft.Sub(st).Seconds()))
