@@ -1,0 +1,2778 @@
+analysing mock data
+
+The purpose of this log file is to highlight the mock data available for testing.
+==========================================
+
+ACCOUNTS
+
+Account No:  1001491721
+Account Type:  P
+
+  Service:  Cleaner Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  YR15OYS
+      Make/Model/Colour:  TOYOTA / YARIS HYBRID ICON CVT / Silver
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Cleaner Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-26T00:00:00Z - 2021-04-25T00:00:00Z
+        Renewable:  true
+
+    Vehicle:  TD22TFL
+      Make/Model/Colour:  TOYOTA / YARIS / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  1001491722
+Account Type:  P
+
+  Service:  Cleaner Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  YR15ORN
+      Make/Model/Colour:  TOYOTA / YARIS HYBRID ICON CVT / Silver
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Cleaner Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2019-04-26T00:00:00Z - 2021-05-31T00:00:00Z
+        Renewable:  true
+
+    Vehicle:  TD22TFL
+      Make/Model/Colour:  TOYOTA / YARIS / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  1001491731
+Account Type:  P
+
+  Service:  Cleaner Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2020-04-25T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  LM16UZK
+      Make/Model/Colour:  TOYOTA / YARIS ICON HYBRID VVT-I CVT / Red
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Cleaner Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-26T00:00:00Z - 2019-04-25T00:00:00Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1001505409
+Account Type:  P
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  AL91TKO
+      Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1001505410
+Account Type:  P
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  AL91TKO
+      Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN06UGH
+      Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-04-01T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1001505411
+Account Type:  P
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  AL91TKR
+      Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2020-05-07T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN06UGH
+      Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-04-01T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN87UGH
+      Make/Model/Colour:  VAUXHALL / ASTRA GT / Blue
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-05-08T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1001505412
+Account Type:  P
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  AL91TKR
+      Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2020-05-07T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN06UGR
+      Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2020-05-17T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN87UGH
+      Make/Model/Colour:  VAUXHALL / ASTRA GT / Blue
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-05-08T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  AO53URG
+      Make/Model/Colour:  LAND ROVER / FREELANDER SERENGETI TD4 / Silver
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-05-18T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1001505413
+Account Type:  P
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  AL91TKR
+      Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2020-05-07T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN06UGH
+      Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-04-01T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  WN87UGH
+      Make/Model/Colour:  VAUXHALL / ASTRA GT / Blue
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-05-08T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  GO10ADU
+      Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+==========================================
+
+Account No:  1001505414
+Account Type:  P
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  AL91TKR
+      Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2016-04-26T00:00:00Z - 2020-05-07T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  GO18ADU
+      Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  1018509170
+Account Type:  P
+Balance:  30
+PaymentMethod:  P
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2018-04-26T00:00:00Z - 2020-06-25T23:59:59Z
+    Renewable:  true
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2017-03-07T00:00:00Z - 2020-03-08T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  DDZ26
+      Make/Model/Colour:  VOLKSWAGEN / GOLF MATCH TDI DSG / Grey
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-03-08T00:00:00Z - 2020-03-08T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  DE11BOY
+      Make/Model/Colour:  LAND ROVER / RANGE ROVER SVA-BIO DYNAM V8 A / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Residents Discount ( Active )
+        Discount:  Active 90
+        Dates:  2018-01-26T00:00:00Z - 2020-06-25T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  GO18ADU
+      Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  1018509171
+Account Type:  P
+Balance:  30
+PaymentMethod:  P
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2018-01-26T00:00:00Z - 2020-01-25T23:59:59Z
+    Renewable:  true
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2017-03-07T00:00:00Z - 2020-03-08T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  DDZ26
+      Make/Model/Colour:  VOLKSWAGEN / GOLF MATCH TDI DSG / Grey
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-03-08T00:00:00Z - 2020-03-08T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  DE11BOY
+      Make/Model/Colour:  LAND ROVER / RANGE ROVER SVA-BIO DYNAM V8 A / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Residents Discount ( Active )
+        Discount:  Active 90
+        Dates:  2018-01-26T00:00:00Z - 2020-06-25T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  GO18ADU
+      Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  1018509172
+Account Type:  P
+Balance:  30
+PaymentMethod:  P
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2018-04-26T00:00:00Z - 2020-04-25T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  DE11BOY
+      Make/Model/Colour:  LAND ROVER / RANGE ROVER SVA-BIO DYNAM V8 A / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Residents Discount ( Active )
+        Discount:  Active 90
+        Dates:  2018-01-26T00:00:00Z - 2020-06-25T23:59:59Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1018509173
+Account Type:  P
+Balance:  30
+PaymentMethod:  P
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2018-04-26T00:00:00Z - 2020-04-25T23:59:59Z
+    Renewable:  true
+
+==========================================
+
+Account No:  1216843490
+Account Type:  B
+
+  Service:  9+ Seat Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  DT019KL
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+    Vehicle:  EK341BA
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+    Vehicle:  EK983LH
+      Make/Model/Colour:  VOLKSWAGEN / TRANSPORTER T28 84 TDI SWB / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  9+ Seat Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+        Renewable:  true
+
+==========================================
+
+Account No:  1216843491
+Account Type:  B
+
+  Service:  9+ Seat Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T01:59:59Z
+    Renewable:  true
+
+    Vehicle:  EK983RN
+      Make/Model/Colour:  VOLKSWAGEN / TRANSPORTER T28 84 TDI SWB / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  9+ Seat Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  DT019KL
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+    Vehicle:  EK341BA
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+==========================================
+
+Account No:  2000160684
+Account Type:  P
+Balance:  20
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Closed )
+    Discount:   0
+    Dates:  2017-03-04T11:33:11 - 2019-03-31T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  EY53YZC
+      CC: - ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-03-04T00:00:00Z - 2019-03-30T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  SX53CYL
+      CC: - ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-03-04T00:00:00Z - 2019-03-30T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000480546
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Closed )
+    Discount:   0
+    Dates:  2018-03-05T22:01:58 - 2019-04-05T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  GD12XAK
+      CC: - ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2018-03-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO10ADU
+      Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO11ADU
+      Make/Model/Colour:  VOLVO / OLD LORRY HKZ1922 / Red
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO12ADU
+      Make/Model/Colour:  MERCEDES / OLD LORRY BIG7551 / Red
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO13ADU
+      Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO14ADU
+      Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO15ADU
+      Make/Model/Colour:  DAF TRUCKS / FA 45.150 OLD LORRY W108DHJ / Yellow
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO17ADU
+      Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO18ADU
+      Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000633533
+Account Type:  P
+
+==========================================
+
+Account No:  2000633939
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-08-10T16:46:14 - 2020-08-09T04:46:14
+    Renewable:  false
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD04TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000640112
+Account Type:  P
+Balance:  60
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-08-03T10:06:28 - 2020-08-02T10:06:28
+    Renewable:  false
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD04TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000647128
+Account Type:  P
+
+==========================================
+
+Account No:  2000851214
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-05T08:42:55 - 2020-04-04T08:42:55
+    Renewable:  false
+
+    Vehicle:  GO10PAP
+      Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO13PAP
+      Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851215
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-05T08:42:55 - 2020-04-04T08:42:55
+    Renewable:  false
+
+==========================================
+
+Account No:  2000851253
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Ready )
+    Discount:   0
+    Dates:  2019-04-05T09:40:46 - 
+    Renewable:  true
+
+==========================================
+
+Account No:  2000851258
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Accredited Breakdown Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2020-04-25T23:59:59Z
+    Renewable:  false
+
+    Vehicle:  RX57ESV
+      Make/Model/Colour:  RENAULT / Flatbed Lorry / Yellow
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Accredited Breakdown Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-05T10:28:27 - 2021-04-04T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  RX96FRG
+      Make/Model/Colour:  VAUXHALL / Flatbed Lorry / Yellow
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851259
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Accredited Breakdown Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  false
+
+    Vehicle:  RX57ERN
+      Make/Model/Colour:  RENAULT / Flatbed Lorry / Yellow
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Accredited Breakdown Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-05T10:28:27 - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  RX96FRG
+      Make/Model/Colour:  VAUXHALL / Flatbed Lorry / Yellow
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851270
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Ready )
+    Discount:   0
+    Dates:  2019-04-05T09:48:16 - 
+    Renewable:  true
+
+==========================================
+
+Account No:  2000851292
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Closed )
+    Discount:   0
+    Dates:  2019-04-05T10:07:50 - 2019-04-05T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  TD21TFL
+      Make/Model/Colour:  HYUNDAI / I30 SE NAV T-GDI / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD22TFL
+      Make/Model/Colour:  TOYOTA / YARIS / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD23TFL
+      Make/Model/Colour:  MAZDA / 3 SPORT BLACK / White
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD24TFL
+      Make/Model/Colour:  FORD / FOCUS / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD25TFL
+      Make/Model/Colour:  VAUXHALL / CORSA SXI AC / Silver
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD26TFL
+      Make/Model/Colour:  SEAT / ARONA XCELLENCE TSI / Orange
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD27TFL
+      Make/Model/Colour:  VOLKSWAGEN / GOLF R LINE TSI EVO / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851321
+Account Type:  B
+Balance:  60
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T16:20:36 - 2020-04-12T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  GO10FAP
+      Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-17T00:00:00Z - 2020-04-18T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO11FAP
+      Make/Model/Colour:  VOLVO / OLD LORRY HKZ1922 / Red
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO13FAP
+      Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO14FAP
+      Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO16FAP
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO17FAP
+      Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO21ADU
+      Make/Model/Colour:  PULSE / BT 49 QT-9D1 SCOOTER WG64EZM / Blue
+      CC: - ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO25FAP
+      Make/Model/Colour:  LAND ROVER / RANGE ROVER AUTO-B SDV8 A / Brown
+      CC: Yes ; LEZ: Low ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO27FAP
+      Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO28FAP
+      Make/Model/Colour:  AUDI / Q5 S LINE + TDI QUATTRO AUTO / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851330
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Pending )
+    Discount:   0
+    Dates:  2019-04-15T14:36:20 - 
+    Renewable:  true
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD04TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851340
+Account Type:  B
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Suspended )
+    Discount:   0
+    Dates:  2019-04-15T14:36:20 - 
+    Renewable:  true
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD04TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851341
+Account Type:  B
+Balance:  60
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Suspended )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-03-19T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  GO27ADU
+      Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+    Vehicle:  GS28FAP
+      Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+      CC: Yes ; LEZ: - ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Suspended )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-03-19T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GS14FAP
+      Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Suspended )
+        Discount:   0
+        Dates:  2019-04-18T00:00:00Z - 2020-03-19T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851355
+Account Type:  P
+
+  Service:  Motor Tricycle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  false
+
+    Vehicle:  TZ05TZD
+      Make/Model/Colour:  SUZUKI / VL 800 L1 / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD32TFL
+      Make/Model/Colour:  LAVERDA / JOTA 1000 TRIPLE / Orange
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Motor Tricycle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-05T00:00:00Z - 2021-04-04T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851356
+Account Type:  P
+
+  Service:  Motor Tricycle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  false
+
+    Vehicle:  TD32TRN
+      Make/Model/Colour:  LAVERDA / JOTA 1000 TRIPLE / Orange
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Motor Tricycle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-05T00:00:00Z - 2021-05-31T00:00:00Z
+        Renewable:  true
+
+    Vehicle:  TZ05TZD
+      Make/Model/Colour:  SUZUKI / VL 800 L1 / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851365
+Account Type:  P
+
+  Service:  Recovery Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  TD33TFL
+      Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Recovery Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  TZ01TZA
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851366
+Account Type:  P
+
+  Service:  Recovery Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+
+    Vehicle:  TD33TRN
+      Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Recovery Vehicle Discount ( Active )
+        Discount:  Active 100
+        Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+        Renewable:  true
+
+    Vehicle:  TZ01TZA
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851373
+Account Type:  P
+
+    Vehicle:  DSFSD
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000851675
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Suspended )
+    Discount:   0
+    Dates:  2018-09-05T08:42:55 - 2019-09-04T08:42:55
+    Renewable:  false
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD04TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000851877
+Account Type:  P
+
+==========================================
+
+Account No:  2000851978
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Pre-suspended )
+    Discount:   0
+    Dates:  2018-09-05T08:42:55 - 2019-09-04T08:42:55
+    Renewable:  false
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TD04TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2000856740
+Account Type:  P
+Number of Users:  1
+
+    Vehicle:  SREGA4121
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  SREGA4122
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+==========================================
+
+Account No:  2000856776
+Account Type:  P
+
+==========================================
+
+Account No:  2000857024
+Account Type:  P
+
+    Vehicle:  GO10ADU
+      Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO12ADU
+      Make/Model/Colour:  MERCEDES / OLD LORRY BIG7551 / Red
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO13ADU
+      Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO16ADU
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO17ADU
+      Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO18ADU
+      Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO21ADU
+      Make/Model/Colour:  PULSE / BT 49 QT-9D1 SCOOTER WG64EZM / Blue
+      CC: - ; LEZ: - ; ULEZ: -
+
+    Vehicle:  GO25ADU
+      Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+      CC: - ; LEZ: High ; ULEZ: High
+
+    Vehicle:  GO27ADU
+      Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+    Vehicle:  GO28ADU
+      Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+      CC: Yes ; LEZ: - ; ULEZ: High
+
+==========================================
+
+Account No:  2000857024
+Account Type:  P
+
+==========================================
+
+Account No:  2000857313
+Account Type:  B
+Number of Users:  2
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T09:06:41 - 2020-04-19T00:00:00Z
+    Renewable:  false
+
+==========================================
+
+Account No:  2000862333
+Account Type:  B
+Number of Users:  2
+
+  Service:  Selected Partner Discount ( Active )
+    Discount:  Active 100
+    Dates:  2019-05-02T10:27:45 - 
+    Renewable:  false
+
+    Vehicle:  AE56SGO
+      Make/Model/Colour:  MERCEDES /  / Red
+      CC: - ; LEZ: - ; ULEZ: Low
+
+      Service:  Selected Partner Discount ( Active )
+        Discount:  Active 100
+        Dates:  2019-05-10T00:00:00Z - 
+        Renewable:  false
+
+    Vehicle:  HB11WSA
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Selected Partner Discount ( Active )
+        Discount:  Active 100
+        Dates:  2019-05-02T00:00:00Z - 
+        Renewable:  false
+
+    Vehicle:  JM27ZBG
+      Make/Model/Colour:  SETRA /  / Red
+      CC: - ; LEZ: High ; ULEZ: High
+
+      Service:  Selected Partner Discount ( Active )
+        Discount:  Active 100
+        Dates:  2019-05-10T00:00:00Z - 
+        Renewable:  false
+
+==========================================
+
+Account No:  2000999999
+Account Type:  B
+Balance:  60
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T16:20:36 - 2020-04-12T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  GO10FAP
+      Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+      CC: Yes ; LEZ: High ; ULEZ: High
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-17T00:00:00Z - 2020-04-18T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TZ01TZA
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TZ01TZB
+      CC: - ; LEZ: Low ; ULEZ: Low
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TZ01TZC
+      CC: Yes ; LEZ: Low ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TZ01TZD
+      CC: Yes ; LEZ: - ; ULEZ: Low
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TZ01TZE
+      CC: - ; LEZ: Low ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TZ01TZF
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO21ADU
+      Make/Model/Colour:  PULSE / BT 49 QT-9D1 SCOOTER WG64EZM / Blue
+      CC: - ; LEZ: - ; ULEZ: -
+
+    Vehicle:  TZ01TXX
+      CC: - ; LEZ: - ; ULEZ: Low
+
+      Service:  Fleet Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2001127947
+Account Type:  B
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-02-26T11:47:17 - 2020-03-26T23:59:59
+    Renewable:  false
+
+    Vehicle:  PP40YTR
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-05-23T00:00:00Z - 2022-03-26T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  RE114ABF
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-03-10T00:00:00Z - 2020-03-26T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  ZZ114ABF
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Blue Badge Discount ( Active )
+        Discount:  Active 100
+        Dates:  2020-03-10T00:00:00Z - 2020-03-22T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2001127948
+Account Type:  B
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-05-26T11:47:17 - 2022-03-26T23:59:59
+    Renewable:  false
+
+==========================================
+
+Account No:  2001128149
+Account Type:  P
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2020-03-23T10:58:59 - 2021-04-07T23:59:59
+    Renewable:  false
+
+    Vehicle:  RD34EDR
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Residents Discount ( Active )
+        Discount:  Active 90
+        Dates:  2020-03-23T00:00:00Z - 2021-04-07T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  2001129125
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2020-01-07T06:10:58 - 2020-10-25T23:59:59
+    Renewable:  false
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2020-01-07T06:15:48 - 2021-01-06T06:15:48
+    Renewable:  false
+
+    Vehicle:  GO69PAP
+      Make/Model/Colour:  PIAGGIO / VESPA LX 50 / Black
+      CC: - ; LEZ: Medium ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+        Renewable:  false
+
+      Service:   Residents Discount ( Active )
+        Discount:  Active 90
+        Dates:  2020-01-22T00:00:00Z - 2020-10-25T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO70PAP
+      Make/Model/Colour:  HARLEY-DAVIDSON /  / Blue
+      CC: - ; LEZ: Medium ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO71PAP
+      Make/Model/Colour:  HONDA / CB900F-2 HORNET / Silver
+      CC: - ; LEZ: Medium ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO72PAP
+      Make/Model/Colour:  KTM / 640 ADVENTURE-R / Orange
+      CC: - ; LEZ: Medium ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO73PAP
+      Make/Model/Colour:  HARLEY-DAVIDSON / FLHC HERITAGE STC 1745 18 / Maroon
+      CC: - ; LEZ: Medium ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  3001491721
+Account Type:  R
+
+==========================================
+
+Account No:  9000000000
+Account Type:  
+
+==========================================
+
+Account No:  9000851214
+Account Type:  P
+PaymentMethod:  D
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-05T08:42:55 - 2020-04-04T08:42:55
+    Renewable:  false
+
+    Vehicle:  TD03TFL
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  CC Auto Pay AutoPay ( Active )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  9000851321
+Account Type:  B
+Balance:  60
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T16:20:36 - 2020-04-12T00:00:00Z
+    Renewable:  false
+
+==========================================
+
+Account No:  9100851321
+Account Type:  B
+Balance:  60
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T16:20:36 - 2020-04-12T00:00:00Z
+    Renewable:  false
+
+==========================================
+
+Account No:  9100851322
+Account Type:  B
+PaymentMethod:  D
+
+==========================================
+
+Account No:  9822123780
+Account Type:  B
+Number of Users:  3
+Balance:  913
+PaymentMethod:  D
+
+  Service:  Fleet Auto Pay AutoPay ( Closed )
+    Discount:   0
+    Dates:  2017-03-12T00:00:00Z - 2019-05-08T00:00:00Z
+    Renewable:  false
+
+    Vehicle:  GO17FAP
+      Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD22TFL
+      Make/Model/Colour:  TOYOTA / YARIS / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  GO16FAP
+      Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD24TFL
+      Make/Model/Colour:  FORD / FOCUS / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD25TFL
+      Make/Model/Colour:  VAUXHALL / CORSA SXI AC / Silver
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD26TFL
+      Make/Model/Colour:  SEAT / ARONA XCELLENCE TSI / Orange
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+    Vehicle:  TD27TFL
+      Make/Model/Colour:  VOLKSWAGEN / GOLF R LINE TSI EVO / Blue
+      CC: Yes ; LEZ: - ; ULEZ: -
+
+      Service:  Fleet Auto Pay AutoPay ( Closed )
+        Discount:   0
+        Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+        Renewable:  false
+
+==========================================
+
+Account No:  9999999999
+Account Type:  B
+PaymentMethod:  D
+
+==========================================
+
+==========================================
+
+VRMS
+
+Vrm:  AL91TKO
+Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  AL91TKR
+Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  AO53URG
+Make/Model/Colour:  LAND ROVER / FREELANDER SERENGETI TD4 / Silver
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  AY03OWJ
+Make/Model/Colour:  TOYOTA / PREVIA CDX VVTI AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  DE11BOY
+Make/Model/Colour:  LAND ROVER / RANGE ROVER SVA-BIO DYNAM V8 A / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  DSFSD
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  DT019KL
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  EK341BA
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  EK983LH
+Make/Model/Colour:  VOLKSWAGEN / TRANSPORTER T28 84 TDI SWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  EK983RN
+Make/Model/Colour:  VOLKSWAGEN / TRANSPORTER T28 84 TDI SWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  EX15LYY
+Make/Model/Colour:  FORD / TRANSIT 460 ECONETIC TECH / White
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GFO261
+Make/Model/Colour:  BEDFORD /  / Green
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO10ADU
+Make/Model/Colour:  SCANIA / ORIG VRM W253TFJ / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO10FAP
+Make/Model/Colour:  SCANIA / ORIG VRM W253TFJ / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO10PAP
+Make/Model/Colour:  SCANIA / ORIG VRM W253TFJ / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO11ADU
+Make/Model/Colour:  VOLVO / OLD LORRY HKZ1922 / Red
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO11FAP
+Make/Model/Colour:  VOLVO / OLD LORRY HKZ1922 / Red
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO12ADU
+Make/Model/Colour:  MERCEDES / OLD LORRY BIG7551 / Red
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO13ADU
+Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO13FAP
+Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO13PAP
+Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO14ADU
+Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO14FAP
+Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO15ADU
+Make/Model/Colour:  DAF TRUCKS / FA 45.150 OLD LORRY W108DHJ / Yellow
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO16ADU
+Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO16FAP
+Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO16PAP
+Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO17ADU
+Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO17FAP
+Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO18ADU
+Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO19ADU
+Make/Model/Colour:  SCANIA / IMPOSSIBLE SCENARIO / White
+CC: Yes ; LEZ: Low ; ULEZ: High
+==========================================
+
+Vrm:  GO20ADU
+Make/Model/Colour:  WRIGHTBUS / NEW BUS FOR LONDON LTZ1018 / Red
+CC: - ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO21ADU
+Make/Model/Colour:  PULSE / BT 49 QT-9D1 SCOOTER WG64EZM / Blue
+CC: - ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  GO22ADU
+Make/Model/Colour:  PIAGGIO / OLD SCOOTER DK04HXB / Silver
+CC: - ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  GO23ADU
+Make/Model/Colour:  DENNIS / FIRE ENGINE LX51FGF / Red
+CC: Yes ; LEZ: High ; ULEZ: Low
+==========================================
+
+Vrm:  GO24ADU
+Make/Model/Colour:  ERF / LORRY W983XNS / Mauve
+CC: Yes ; LEZ: High ; ULEZ: -
+==========================================
+
+Vrm:  GO24FAP
+Make/Model/Colour:  ERF / LORRY W983XNS / Mauve
+CC: Yes ; LEZ: High ; ULEZ: -
+==========================================
+
+Vrm:  GO25ADU
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+CC: - ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO25FAP
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+CC: - ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO25PAP
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+CC: - ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GO27ADU
+Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  GO27FAP
+Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  GO27PAP
+Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  GO28ADU
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  GO28FAP
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  GO28PAP
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  GO29ADU
+Make/Model/Colour:  WRIGHTBUS / STREETLITE DF SK63JNH / Multi-Coloured
+CC: - ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  GO29FAP
+Make/Model/Colour:  WRIGHTBUS / STREETLITE DF SK63JNH / Multi-Coloured
+CC: - ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  GO56ADU
+Make/Model/Colour:  MERCEDES / VITO 111 CDI LONG / Silver
+CC: Yes ; LEZ: Low ; ULEZ: -
+==========================================
+
+Vrm:  GO69PAP
+Make/Model/Colour:  PIAGGIO / VESPA LX 50 / Black
+CC: - ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  GO70PAP
+Make/Model/Colour:  HARLEY-DAVIDSON /  / Blue
+CC: - ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  GO71ADU
+Make/Model/Colour:  HONDA / CB900F-2 HORNET / Silver
+CC: - ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  GO71PAP
+Make/Model/Colour:  HONDA / CB900F-2 HORNET / Silver
+CC: - ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  GO72PAP
+Make/Model/Colour:  KTM / 640 ADVENTURE-R / Orange
+CC: - ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  GO73PAP
+Make/Model/Colour:  HARLEY-DAVIDSON / FLHC HERITAGE STC 1745 18 / Maroon
+CC: - ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  GS14FAP
+Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  GS28FAP
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  PP40YTR
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  RD34EDR
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  RE114ABF
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  RX57ERN
+Make/Model/Colour:  RENAULT / Flatbed Lorry / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  RX57ESV
+Make/Model/Colour:  RENAULT / Flatbed Lorry / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  RX96FRG
+Make/Model/Colour:  VAUXHALL / Flatbed Lorry / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  SM09WJV
+Make/Model/Colour:  VOLKSWAGEN / CRAFTER CR35 109 MWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  T19WHM
+Make/Model/Colour:  SCANIA /  / Multi-Coloured
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vrm:  TD03TFL
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD04TFL
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD21TFL
+Make/Model/Colour:  HYUNDAI / I30 SE NAV T-GDI / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD22TFL
+Make/Model/Colour:  TOYOTA / YARIS / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD23TFL
+Make/Model/Colour:  MAZDA / 3 SPORT BLACK / White
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD24TFL
+Make/Model/Colour:  FORD / FOCUS / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD25TFL
+Make/Model/Colour:  VAUXHALL / CORSA SXI AC / Silver
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD26TFL
+Make/Model/Colour:  SEAT / ARONA XCELLENCE TSI / Orange
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD27TFL
+Make/Model/Colour:  VOLKSWAGEN / GOLF R LINE TSI EVO / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TD32TFL
+Make/Model/Colour:  LAVERDA / JOTA 1000 TRIPLE / Orange
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TD32TRN
+Make/Model/Colour:  LAVERDA / JOTA 1000 TRIPLE / Orange
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TD33A1D
+ERROR - mismatch of VRMs TD33A1T
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TD33A1L
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TD33TFL
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TD33TRN
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TD33XFL
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  TZ01TZA
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TZ01TZB
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TZ01TZD
+Make/Model/Colour:  SUZUKI / VL 800 L1 / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  TZ05TZD
+Make/Model/Colour:  SUZUKI / VL 800 L1 / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  W326HFC
+Make/Model/Colour:  GROVE / Mobile Crane / Blue
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  WN06UGH
+Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  WN06UGR
+Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  WN87UGH
+Make/Model/Colour:  VAUXHALL / ASTRA GT / Blue
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  WN92UGH
+Make/Model/Colour:  VAUXHALL / ASTRA GT / Blue
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vrm:  YN54CTK
+Make/Model/Colour:  MAN / Accident Unit Lorry / White
+CC: Yes ; LEZ: High ; ULEZ: -
+==========================================
+
+Vrm:  YN64AUC
+Make/Model/Colour:   /  / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  YR15ORN
+ERROR - mismatch of VRMs YR15OYS
+Make/Model/Colour:  TOYOTA / YARIS HYBRID ICON CVT / Silver
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  YR15OYS
+Make/Model/Colour:  TOYOTA / YARIS HYBRID ICON CVT / Silver
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  ZZ114ABF
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vrm:  ZZ11AAU
+Make/Model/Colour:  MERCEDES-BENZ / ML350 GRD EDN CDI B-EFF A / Black
+CC: Yes ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  ZZ12AAQ
+Make/Model/Colour:  YAMAHA / XSR 700 ABS / Grey
+CC: - ; LEZ: - ; ULEZ: High
+==========================================
+
+Vrm:  ZZ12AAS
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE AUTOBI SD4A / White
+CC: Yes ; LEZ: Medium ; ULEZ: -
+==========================================
+
+Vrm:  ZZ12AAU
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE AUTOBI SD4A / White
+CC: Yes ; LEZ: Medium ; ULEZ: -
+==========================================
+
+==========================================
+
+Vehicles
+
+Vehicle:  AL91TKO
+Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  AL91TKR
+Make/Model/Colour:  BMW / 420D M SPORT AUTO / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2020-05-07T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  AO53URG
+Make/Model/Colour:  LAND ROVER / FREELANDER SERENGETI TD4 / Silver
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-05-18T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  AY03OWJ
+Make/Model/Colour:  TOYOTA / PREVIA CDX VVTI AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  DE11BOY
+Make/Model/Colour:  LAND ROVER / RANGE ROVER SVA-BIO DYNAM V8 A / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2018-01-26T00:00:00Z - 2020-06-25T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  DSFSD
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  DT019KL
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  EK341BA
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  EK983LH
+Make/Model/Colour:  VOLKSWAGEN / TRANSPORTER T28 84 TDI SWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  9+ Seat Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  EK983RN
+Make/Model/Colour:  VOLKSWAGEN / TRANSPORTER T28 84 TDI SWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  9+ Seat Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T02:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  EX15LYY
+Make/Model/Colour:  FORD / TRANSIT 460 ECONETIC TECH / White
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GFO261
+Make/Model/Colour:  BEDFORD /  / Green
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GO10ADU
+Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO10FAP
+Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO10PAP
+Make/Model/Colour:  SCANIA / OLD LORRY W253TFJ / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO11ADU
+Make/Model/Colour:  VOLVO / OLD LORRY HKZ1922 / Red
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO11FAP
+Make/Model/Colour:  VOLVO / OLD LORRY HKZ1922 / Red
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO12ADU
+Make/Model/Colour:  MERCEDES / OLD LORRY BIG7551 / Red
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO13ADU
+Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO13FAP
+Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO13PAP
+Make/Model/Colour:  SCANIA / OLD LORRY P975VGE / White
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO14ADU
+Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO14FAP
+Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO15ADU
+Make/Model/Colour:  DAF TRUCKS / FA 45.150 OLD LORRY W108DHJ / Yellow
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO16ADU
+Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GO16FAP
+Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO16PAP
+Make/Model/Colour:  TOYOTA / ISIS NEW CAR LU06MTV / Black
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO17ADU
+Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GO17FAP
+Make/Model/Colour:  TOYOTA / COROLLA COL-R COLN VVTI A YG56NCV / Grey
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO18ADU
+Make/Model/Colour:  VOLKSWAGEN / POLO S 75 MT06ZDF / Grey
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GO19ADU
+Make/Model/Colour:  SCANIA / IMPOSSIBLE SCENARIO / White
+CC: Yes ; LEZ: Low ; ULEZ: High
+==========================================
+
+Vehicle:  GO20ADU
+Make/Model/Colour:  WRIGHTBUS / NEW BUS FOR LONDON LTZ1018 / Red
+CC: - ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GO21ADU
+Make/Model/Colour:  PULSE / BT 49 QT-9D1 SCOOTER WG64EZM / Blue
+CC: - ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  GO22ADU
+Make/Model/Colour:  PIAGGIO / OLD SCOOTER DK04HXB / Silver
+CC: - ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  GO23ADU
+Make/Model/Colour:  DENNIS / FIRE ENGINE LX51FGF / Red
+CC: Yes ; LEZ: High ; ULEZ: Low
+==========================================
+
+Vehicle:  GO24ADU
+Make/Model/Colour:  ERF / LORRY W983XNS / Mauve
+CC: Yes ; LEZ: High ; ULEZ: -
+==========================================
+
+Vehicle:  GO24FAP
+Make/Model/Colour:  ERF / LORRY W983XNS / Mauve
+CC: Yes ; LEZ: High ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO25ADU
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+CC: - ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  GO25FAP
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+CC: - ; LEZ: High ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO25PAP
+Make/Model/Colour:  LAND ROVER / RANGE ROVER EVOQUE DYNAMIC SD4 / Red
+CC: - ; LEZ: High ; ULEZ: High
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO27ADU
+Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  GO27FAP
+Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO27PAP
+Make/Model/Colour:  MERCEDES / LORRY LP60OMC / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO28ADU
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vehicle:  GO28FAP
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO28PAP
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO29ADU
+Make/Model/Colour:  WRIGHTBUS / STREETLITE DF SK63JNH / Multi-Coloured
+CC: - ; LEZ: - ; ULEZ: High
+==========================================
+
+Vehicle:  GO29FAP
+Make/Model/Colour:  WRIGHTBUS / STREETLITE DF SK63JNH / Multi-Coloured
+CC: - ; LEZ: - ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-04-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO69PAP
+Make/Model/Colour:  PIAGGIO / VESPA LX 50 / Black
+CC: - ; LEZ: Medium ; ULEZ: -
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+    Renewable:  false
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2020-01-22T00:00:00Z - 2020-10-25T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GO71PAP
+Make/Model/Colour:  HONDA / CB900F-2 HORNET / Silver
+CC: - ; LEZ: Medium ; ULEZ: -
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2020-01-07T00:00:00Z - 2021-01-08T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GS14FAP
+Make/Model/Colour:  SCANIA / OLD LORRY V756KVH / Blue
+CC: Yes ; LEZ: High ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Suspended )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-03-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  GS28FAP
+Make/Model/Colour:  BMW / 730D M SPORT AUTO / Black
+CC: Yes ; LEZ: - ; ULEZ: High
+
+  Service:  Fleet Auto Pay AutoPay ( Suspended )
+    Discount:   0
+    Dates:  2019-04-18T00:00:00Z - 2020-03-19T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  PP40YTR
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-05-23T00:00:00Z - 2022-03-26T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  RD34EDR
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Residents Discount ( Active )
+    Discount:  Active 90
+    Dates:  2020-03-23T00:00:00Z - 2021-04-07T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  RE114ABF
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-03-10T00:00:00Z - 2020-03-26T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  RX57ERN
+Make/Model/Colour:  RENAULT / Flatbed Lorry / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Accredited Breakdown Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-05T10:28:27 - 2021-05-31T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  RX57ESV
+Make/Model/Colour:  RENAULT / Flatbed Lorry / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Accredited Breakdown Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-05T10:28:27 - 2021-04-04T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  RX96FRG
+Make/Model/Colour:  VAUXHALL / Flatbed Lorry / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  SM09WJV
+Make/Model/Colour:  VOLKSWAGEN / CRAFTER CR35 109 MWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  T19WHM
+Make/Model/Colour:  SCANIA /  / Multi-Coloured
+CC: Yes ; LEZ: High ; ULEZ: High
+==========================================
+
+Vehicle:  TD03TFL
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TD04TFL
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  CC Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-05T00:00:00Z - 2020-04-06T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TD21TFL
+Make/Model/Colour:  HYUNDAI / I30 SE NAV T-GDI / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Closed )
+    Discount:   0
+    Dates:  2019-04-05T00:00:00Z - 2019-04-04T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TD22TFL
+Make/Model/Colour:  TOYOTA / YARIS / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  TD24TFL
+Make/Model/Colour:  FORD / FOCUS / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  TD26TFL
+Make/Model/Colour:  SEAT / ARONA XCELLENCE TSI / Orange
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  TD27TFL
+Make/Model/Colour:  VOLKSWAGEN / GOLF R LINE TSI EVO / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  TD32TFL
+Make/Model/Colour:  LAVERDA / JOTA 1000 TRIPLE / Orange
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Motor Tricycle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2019-04-05T00:00:00Z - 2021-04-04T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TD32TRN
+Make/Model/Colour:  LAVERDA / JOTA 1000 TRIPLE / Orange
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Motor Tricycle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-05T00:00:00Z - 2021-05-31T00:00:00Z
+    Renewable:  true
+==========================================
+
+Vehicle:  TD33A1D
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Recovery Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  TD33A1L
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  TD33TFL
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Recovery Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  TD33TRN
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Recovery Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  TD33XFL
+Make/Model/Colour:  IVECO / DAILY 35S11 LWB / White
+CC: Yes ; LEZ: - ; ULEZ: Low
+==========================================
+
+Vehicle:  TZ01TZA
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TZ01TZB
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TZ01TZD
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Fleet Auto Pay AutoPay ( Active )
+    Discount:   0
+    Dates:  2019-04-11T00:00:00Z - 2020-04-12T00:00:00Z
+    Renewable:  false
+==========================================
+
+Vehicle:  TZ05TZD
+Make/Model/Colour:  SUZUKI / VL 800 L1 / Blue
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  W326HFC
+Make/Model/Colour:  GROVE / Mobile Crane / Blue
+CC: Yes ; LEZ: - ; ULEZ: High
+==========================================
+
+Vehicle:  WN06UGH
+Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-04-01T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  WN06UGR
+Make/Model/Colour:  VAUXHALL / ASTRA SRI+CDTI 150 / Black
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2016-04-26T00:00:00Z - 2020-05-17T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  WN87UGH
+Make/Model/Colour:  VAUXHALL / ASTRA GT / Blue
+CC: Yes ; LEZ: - ; ULEZ: Low
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-05-08T00:00:00Z - 2021-05-31T23:59:59Z
+    Renewable:  true
+==========================================
+
+Vehicle:  YN54CTK
+Make/Model/Colour:  MAN / Accident Unit Lorry / White
+CC: Yes ; LEZ: High ; ULEZ: -
+==========================================
+
+Vehicle:  YN64AUC
+Make/Model/Colour:   /  / Yellow
+CC: Yes ; LEZ: - ; ULEZ: -
+==========================================
+
+Vehicle:  YR15ORN
+Make/Model/Colour:  TOYOTA / YARIS HYBRID ICON CVT / Silver
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Cleaner Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-05-31T00:00:00Z
+    Renewable:  true
+==========================================
+
+Vehicle:  YR15OYS
+Make/Model/Colour:  TOYOTA / YARIS HYBRID ICON CVT / Silver
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Cleaner Vehicle Discount ( Active )
+    Discount:  Active 100
+    Dates:  2018-04-26T00:00:00Z - 2021-04-25T00:00:00Z
+    Renewable:  true
+==========================================
+
+Vehicle:  ZZ114ABF
+CC: Yes ; LEZ: - ; ULEZ: -
+
+  Service:  Blue Badge Discount ( Active )
+    Discount:  Active 100
+    Dates:  2020-03-10T00:00:00Z - 2020-03-22T00:00:00Z
+    Renewable:  false
+==========================================
+
+==========================================
+
+Check Vrms vs Vehicles
+This checks that the original VrmLookup response has a matching ViewVehicle response. Any missing are reported.
+ERROR - this Vrm not in Vehicles GO56ADU
+ERROR - this Vrm not in Vehicles GO70PAP
+ERROR - this Vrm not in Vehicles GO71ADU
+ERROR - this Vrm not in Vehicles GO72PAP
+ERROR - this Vrm not in Vehicles GO73PAP
+ERROR - this Vrm not in Vehicles TD23TFL
+ERROR - this Vrm not in Vehicles TD25TFL
+ERROR - this Vrm not in Vehicles WN92UGH
+ERROR - this Vrm not in Vehicles ZZ11AAU
+ERROR - this Vrm not in Vehicles ZZ12AAQ
+ERROR - this Vrm not in Vehicles ZZ12AAS
+ERROR - this Vrm not in Vehicles ZZ12AAU
