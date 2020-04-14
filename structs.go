@@ -39,9 +39,10 @@ type Service struct {
 	IsRenewable bool
 }
 
-// type Pcn struct {	
-// 	Number string
-// 	Vrm string
-// 	Status string
-// 	PcnFlags PcnFlags
-// }
+type Pcn struct {	
+	Number string
+	Vrm string
+	Status string
+	PcnErrors []PcnError
+	PcnFlags PcnFlags
+}

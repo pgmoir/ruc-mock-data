@@ -8,15 +8,38 @@ import (
 )
 
 // Xml structure
-type ViewPcnDetailImagesXml struct {
-	Body    ViewPcnDetailImagesBodyXml
-}
-
-type ViewPcnDetailImagesBodyXml struct {
-	ViewPcnDetailXml ViewPcnDetail `xml:"ViewPCNDetailResponse"`
-}
-
 type ViewPcnDetail struct {
+	Body    ViewPcnDetailBody
+}
+
+type ViewPcnDetailBody struct {
+	ViewPCN ViewPcn `xml:"ViewPCNDetailResponse"`
+}
+
+type ViewPcn struct {
+	Result PcnResult `xml:"Result"`
+	PCNDetail PcnDetail
+	PCNSummaryList PcnSummaryList
+}
+
+type PcnResult struct {
+	Errors PcnErrorList `xml:"Errors"`
+}
+
+type PcnErrorList struct {
+	PcnErrors []PcnError `xml:"Error"`
+}
+
+type PcnError struct {
+	Code int
+	Description string
+}
+
+type PcnSummaryList struct {
+	PcnSummarys []PcnDetail `xml:"PCN"`
+}
+
+type PcnDetail struct {
 	PCNNumber string
 	ContraventionDescription string
 	ContraventionType string
@@ -82,7 +105,13 @@ func printPcns(pcns Pcns) {
 	for _, pcn := range pcns {
 		 if pcn.Number != "" {
 			Logger.Println("PCN: ", pcn.Number, "/", pcn.Vrm)
-			Logger.Println("Status: ", pcn.Status)
+			if len(pcn.PcnErrors) > 0 {
+				for _, e := range pcn.PcnErrors {
+					Logger.Println("Error: ", e.Code, "/", e.Description)
+				}
+			} else {
+				Logger.Println("Status: ", pcn.Status)
+			}
 			Logger.Println("==========================================")
 			Logger.Println("")
 		}
@@ -112,7 +141,7 @@ func printPcns(pcns Pcns) {
 //  }
 
 func GetViewPcnDirectory() string {
-	return "C:\\code\\ruc-api-tfl-gov-uk\\Source\\Presentation\\tfl.api.presentation.protectedapi\\Content\\mock\\MockVehicleRepository\\ViewVehicle"
+	return "C:\\code\\ruc-api-tfl-gov-uk\\Source\\Presentation\\tfl.api.presentation.protectedapi\\Content\\mock\\MockPcnRepository\\ViewPCNDetail"
 }
 
 func GetAllViewPcns(d string, pcns *Pcns) error {
@@ -130,9 +159,12 @@ func GetAllViewPcns(d string, pcns *Pcns) error {
 					i++
 					(*pcns)[i].Number = pcn
 					(*pcns)[i].Vrm = vrm
-					viewPcnDetail := GetViewPcnDetail(f)
-					(*pcns)[i].Status = viewPcnDetail.PCNStatus
-					(*pcns)[i].PcnFlags = viewPcnDetail.PCNFlags
+					viewPcn := GetViewPcn(f)
+					if len(viewPcn.Result.Errors.PcnErrors) > 0 {
+						(*pcns)[i].PcnErrors = viewPcn.Result.Errors.PcnErrors
+					}
+					(*pcns)[i].Status = viewPcn.PCNDetail.PCNStatus
+					(*pcns)[i].PcnFlags = viewPcn.PCNDetail.PCNFlags
 				}
 			}
 		}
@@ -150,10 +182,10 @@ func GetPcnParts(fn string) (string, string, string) {
 }
 
 
-func GetViewPcnDetail(f os.FileInfo) ViewPcnDetail {
+func GetViewPcn(f os.FileInfo) ViewPcn {
 	fn := GetViewPcnDirectory() + "\\" + f.Name()
 	data, _ := ioutil.ReadFile(fn)
-	viewPcnDetailImagesXml := &ViewPcnDetailImagesXml{}
-	_ = xml.Unmarshal([]byte(data), &viewPcnDetailImagesXml)
-	return viewPcnDetailImagesXml.Body.ViewPcnDetailXml
+	viewPcnDetail := &ViewPcnDetail{}
+	_ = xml.Unmarshal([]byte(data), &viewPcnDetail)
+	return viewPcnDetail.Body.ViewPCN
 }
