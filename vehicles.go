@@ -6,6 +6,7 @@ import (
 	"strings"
 	"strconv"
 	"encoding/xml"
+	"fmt"
 )
 
 // Xml structure
@@ -139,6 +140,7 @@ func GetAllVehicles(vd string, vehicles *Vehicles, accounts *Accounts, accountVe
 					i++
 					(*vehicles)[i].Vrm = vn
 					vehicle := GetVehicleDetails(fi)
+					fmt.Println("vrm", vn)
 
 					(*vehicles)[i].VrmInt = vehicle.Body.ViewVehicle.VehicleList.CompositeVehicles[0].VRM
 					(*vehicles)[i].Make = vehicle.Body.ViewVehicle.VehicleList.CompositeVehicles[0].Make
