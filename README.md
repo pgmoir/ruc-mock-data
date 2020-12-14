@@ -10,5 +10,5 @@ This go language console application is used to analyse the TfL RUC mock data, a
 
 
 ```go
-go run xml-win1252.go log.go structs.go accounts.go vrms.go vehicles.go pcns.go main.go
+go run xml-win1252.go log.go structs.go accounts.go vrms.go vehicles.go pcns.go charges.go main.go
 ```

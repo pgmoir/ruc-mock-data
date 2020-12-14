@@ -11,6 +11,7 @@ type Vrms []Vrm
 type Vehicles []Vehicle
 type AccountVehicles []Vehicle
 type Pcns []Pcn
+type Charges []Charge
 
 func main() {
 	st := time.Now()
@@ -21,6 +22,7 @@ func main() {
 	vehicles := make(Vehicles, 200)
 	accountVehicles := make(AccountVehicles, 300)
 	pcns := make(Pcns, 50)
+	charges := make(Charges, 50)
 	
 	LogInit(os.Stdout)
 
@@ -32,10 +34,12 @@ func main() {
 	processVrms(vrms)
 	processVehicles(vehicles, vrms, accounts, accountVehicles)
 	processPcns(pcns)
+	processCharges(charges)
 	printAccounts(accounts)
 	printVrms(vrms)
 	printVehicles(vehicles, vrms, accounts, accountVehicles)
 	printPcns(pcns)
+	printCharges(charges)
 
 	ft := time.Now()
 	fmt.Println("Complete", int(ft.Sub(st).Seconds()))

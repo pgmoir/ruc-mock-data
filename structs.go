@@ -1,48 +1,57 @@
 package main
 
 type Account struct {
-	Number int
-	AccountType string
+	Number        int
+	AccountType   string
 	NumberOfUsers int
-	Balance float32
-	Services []Service
+	Balance       float32
+	Services      []Service
 	PaymentMethod string
-	Vehicles []Vehicle
+	Vehicles      []Vehicle
 }
 
 type Vehicle struct {
-	Vrm string
-	VrmInt string
-	Make string
-	Model string
-	Colour string
-	InAutoPay bool
-	IsCc100PcDiscounted bool
+	Vrm                   string
+	VrmInt                string
+	Make                  string
+	Model                 string
+	Colour                string
+	InAutoPay             bool
+	IsCc100PcDiscounted   bool
 	IsUlez100PcDiscounted bool
-	IsULEZExempt int
-	ULEZVehicleListType string
-	IsULEZNonChargeable int
-	CcCharge string
-	LezCharge string
-	UlezCharge string
-	Services []Service
+	IsULEZExempt          int
+	ULEZVehicleListType   string
+	IsULEZNonChargeable   int
+	CcCharge              string
+	LezCharge             string
+	UlezCharge            string
+	Services              []Service
 }
 
 type Service struct {
-	Name string
-	ServiceType string
-	ServiceStatus string
+	Name           string
+	ServiceType    string
+	ServiceStatus  string
 	DiscountStatus string
-	DiscountValue int
-	StartDate string
-	EndDate string
-	IsRenewable bool
+	DiscountValue  int
+	StartDate      string
+	EndDate        string
+	IsRenewable    bool
 }
 
-type Pcn struct {	
-	Number string
-	Vrm string
-	Status string
+type Pcn struct {
+	Number    string
+	Vrm       string
+	Status    string
 	PcnErrors []PcnError
-	PcnFlags PcnFlags
+	PcnFlags  PcnFlags
+}
+
+type Charge struct {
+	Account               string
+	Receipt               string
+	Vrm                   string
+	Period                string
+	ChargeErrors          []ChargeError
+	FinancialTransactions []FinancialTransaction
 }
